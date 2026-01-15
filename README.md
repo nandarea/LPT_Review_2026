@@ -20,7 +20,7 @@ for most LPTs their spin-down are probably not due solely to dipolar losses, as 
 <b>FIGURE 9: Radio luminosity density versus X-ray luminosity. <b> <br>
 Computed for different classes of sources. Data are collected by Anumarlapudi et al. (2025) and Wang et al. (2025).
 <p></p>
-** Cite: Anumarlapudi et al. (2025) and Rea, Hurley-Walker & Caleb (2026) (at least...better would be all the above too...).
+** Cite: Anumarlapudi et al. (2025), Wang et al. (2025) and Rea, Hurley-Walker & Caleb (2026).
 <p></p>
 <p></p>
 <b>FIGURE 10: Distribution of periodicities for LPTs, WD pulsars, and some magnetic CVs.  <b> <br>
