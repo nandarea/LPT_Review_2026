@@ -17,7 +17,7 @@ for most LPTs their spin-down are probably not due solely to dipolar losses, as 
 <p></p>
 FIGURE 9: Radio luminosity density versus X-ray luminosity for different classes of sources. Data are collected by Anumarlapudi et al. (2025) and Wang et al. (2025).
 <p></p>
-** Cite: Wang et al. (2025) and Rea, Hurley-Walker & Caleb (2026) (at least...better would be all the above too...).
+** Cite: Anumarlapudi et al. (2025) and Rea, Hurley-Walker & Caleb (2026) (at least...better would be all the above too...).
 <p></p>
 <p></p>
 FIGURE 10: Distribution of periodicities for LPTs, WD pulsars, and some of the known polars and all intermediate polars under the WD binary scenario. The grey shaded region represents the CV “period gap”. Note that for most LPTs, the nature of the radio periods is unknown, here we are assuming them as spin periods if shorter than a few hours, and orbital periods if longer, but it is just an assumption assuming all systems are WD binaries. Hence please use the plot and relative discussion with the due uncertainties.
