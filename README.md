@@ -24,7 +24,7 @@ Computed for different classes of sources. Data are collected by Anumarlapudi et
 <p></p>
 <p></p>
 <b>FIGURE 10: Distribution of periodicities for LPTs, WD pulsars, and some magnetic CVs.  <b> <br>
-Assuming all systems as WD binaries (possibly not true), we plot LPT periodicities along with some of the known polars and all intermediate polars under the WD binary scenario. The grey shaded region represents the CV “period gap”. Note that for most LPTs, the nature of the radio periods is unknown, here we are assuming them as spin periods if shorter than a few hours, and orbital periods if longer, but it is just an assumption assuming all systems are WD binaries. Hence please use the plot and relative discussion with the due uncertainties.
+Assuming all systems as WD binaries (possibly not true), we plot LPT periodicities along with some of the known polars and all intermediate polars under the WD binary scenario. The grey shaded region represents the CV “period gap”. Note that for most LPTs, the nature of the radio periods is unknown, here we are assuming them as spin periods if shorter than a few hours, and orbital periods if longer, but it is just an assumption assuming all systems are WD binaries. Hence please use the plot and relative discussion with the due uncertainties. (data taken from Koji Mukai online repository for IPs https://asd.gsfc.nasa.gov/Koji.Mukai/iphome/iphome.html and Ferrario, De Martino & Gänsicke (2015).
 <p></p>            
 ** Cite: Rea, Hurley-Walker & Caleb (2026)
 <p></p>    
