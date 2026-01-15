@@ -1,4 +1,4 @@
-<b>FIGURE 1: Radio Transient Plane.<b>
+<p style="color: red;">FIGURE 1: Radio Transient Plane.<\p>
 This figure has been modified and updated by several authors. We have collected them all and created a jupyter notebook. The first data version was written by Evan Keane and distributed via https://github.com/FRBs/Transient_Phase_Space. The jupyter notebook version has been first reported in Rea et al. 2022 (with great help of PhD student Celsa Pardo). I report here the Figure caption: "Radio-transient plane including all transient sources. LPTs radio peaks are reported in green, and WD pulsars in yellow. Data collected from: Keane (2018); Nimmo et al. (2022); Hurley-Walker et al. (2022); Rea et al. (2022); Wang et al. (2025b).
 <p></p>
 ** Cite: Keane (2018) and Rea, Hurley-Walker & Caleb (2026) (at least... better would be all the above too...).
