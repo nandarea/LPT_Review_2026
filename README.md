@@ -7,7 +7,7 @@ Rea, Hurley-Walker & Caleb (2026) <br>
 (at least... better would be all the above too...).
 <p></p>
 <p></p>
-<b>FIGURE 2: Positions in Galactic Coordinates.<b> <br>
+FIGURE 2: Positions in Galactic Coordinates.<br>
 Position distribution of LPTs compared to different source classes in Galactic coordinates. 
 <p></p>
 ** Cite: <br>
